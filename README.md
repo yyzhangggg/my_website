@@ -65,7 +65,7 @@ Open to: ML Engineer / Software Engineer internships and entry-level roles
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [Insurance Data Analytics](data-analysis/insurance_textual_data_analytics/) | R, SQL, Python | KNN imputation + logistic regression on 70,000+ row real insurance dataset (McGill Data Squad) |
+| [Insurance Data Analytics](data-analysis/insurance%20textual%20data%20analytics/) | R, SQL, Python | KNN imputation + logistic regression on 70,000+ row real insurance dataset (McGill Data Squad) |
 | [Numerical Methods](data-analysis/numerical-method/) | Python, NumPy | Floating-point approximation, root-finding, polynomial interpolation (3 labs) |
 
 ### Systems Programming — [`os-projects-c/`](os-projects-c/)

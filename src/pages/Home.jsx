@@ -131,7 +131,7 @@ export default function Home() {
               <span className="edu-icon">📐</span>
               <div className="edu-info">
                 <h4>Marianopolis College</h4>
-                <p>Pure &amp; Applied Mathematics</p>
+                <p>Health Science &amp; Pure and Applied Mathematics</p>
                 <span className="edu-year">2018 – 2019</span>
               </div>
             </div>
