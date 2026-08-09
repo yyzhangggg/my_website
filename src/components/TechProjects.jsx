@@ -16,6 +16,13 @@ const projects = [
     live: true,
   },
   {
+    icon: 'fa-puzzle-piece',
+    name: 'TicBridge — Autofill Chrome Extension',
+    tech: 'Chrome Extension, JavaScript, Google Drive API',
+    desc: 'Identified the limitations of traditional scheduling tools like Zapier and Buffer, which fail to support platforms without public APIs. Built and published an automated autofill Chrome extension (similar to Simplify) that listens for the latest uploaded files in a user\'s Google Drive, downloads video chunks, and merges them into a single file. Users link their Google Drive, navigate to creator portals (e.g., TikTok, Xiaohongshu/Rednote, Bilibili), and trigger "Autofill" to auto-populate form fields — keeping the final "Post" button manual to strictly respect platform terms of service.',
+    href: 'https://github.com/yyzhangggg/TicBridge',
+  },
+  {
     icon: 'fa-brain',
     name: 'CNN Image Classifier',
     tech: 'PyTorch & TensorFlow',
